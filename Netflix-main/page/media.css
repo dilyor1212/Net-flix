@@ -1,0 +1,23 @@
+@media (max-width: 440px) {
+    .regestration {
+        height: 200px;
+        width: 1%;
+    }
+
+    .regestration > h1 {
+        font-size: 25px;
+    }
+
+    .password{
+        width: 50px;
+        height: 50px;
+    }
+
+    .text, .password, form, button {
+        margin-top: 15px;
+    }
+
+    .eye {
+        width: 40%;
+    }
+}
